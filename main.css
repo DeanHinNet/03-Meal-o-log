@@ -1,0 +1,45 @@
+p {
+	margin: 0;
+	padding: 0;
+}
+
+.wrapper {
+	width: 800px;
+	margin: 0 auto;
+}
+
+#header {
+
+}
+
+
+#display_date, #progress_day, #weight_start, #weight_target {
+
+}
+
+#display_date {
+
+}
+
+#progress_day {
+
+}
+
+#weight_start {
+
+}
+
+#weight_target {
+
+}
+
+
+input {
+	display: block;
+}
+
+section {
+	display: inline-block;
+	vertical-align: top;
+}
+

@@ -1,0 +1,122 @@
+<mockup version="1.0" skin="sketch" fontFace="Balsamiq Sans" measuredW="789" measuredH="656" mockupW="732" mockupH="633">
+  <controls>
+    <control controlID="0" controlTypeID="com.balsamiq.mockups::BrowserWindow" x="57" y="23" w="732" h="633" measuredW="450" measuredH="400" zOrder="0" locked="false" isInGroup="-1"/>
+    <control controlID="2" controlTypeID="com.balsamiq.mockups::TextInput" x="93" y="113" w="-1" h="-1" measuredW="94" measuredH="27" zOrder="1" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>April%2025%2C%202017</text>
+      </controlProperties>
+    </control>
+    <control controlID="4" controlTypeID="com.balsamiq.mockups::TextInput" x="93" y="209" w="-1" h="-1" measuredW="196" measuredH="27" zOrder="2" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Target%20Weight%20for%204/29%3A%20222lbs</text>
+      </controlProperties>
+    </control>
+    <control controlID="5" controlTypeID="com.balsamiq.mockups::TextInput" x="93" y="182" w="-1" h="-1" measuredW="186" measuredH="27" zOrder="3" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Start%20Weight%20for%204/24%3A%20224lbs</text>
+      </controlProperties>
+    </control>
+    <control controlID="6" controlTypeID="com.balsamiq.mockups::Button" x="93" y="247" w="-1" h="-1" measuredW="158" measuredH="27" zOrder="4" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Show%20Weekly%20Summary</text>
+      </controlProperties>
+    </control>
+    <control controlID="7" controlTypeID="com.balsamiq.mockups::TextInput" x="93" y="140" w="-1" h="-1" measuredW="47" measuredH="27" zOrder="5" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Day%203</text>
+      </controlProperties>
+    </control>
+    <control controlID="49" controlTypeID="com.balsamiq.mockups::TextInput" x="93" y="366" w="-1" h="-1" measuredW="92" measuredH="27" zOrder="6" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Add%20to%20today%21</text>
+      </controlProperties>
+    </control>
+    <control controlID="50" controlTypeID="com.balsamiq.mockups::TextInput" x="93" y="324" w="-1" h="-1" measuredW="79" measuredH="27" zOrder="7" locked="false" isInGroup="-1"/>
+    <control controlID="51" controlTypeID="com.balsamiq.mockups::SubTitle" x="93" y="300" w="-1" h="-1" measuredW="55" measuredH="24" zOrder="8" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>16</size>
+        <text>Meal%20%23</text>
+      </controlProperties>
+    </control>
+    <control controlID="52" controlTypeID="com.balsamiq.mockups::TextInput" x="187" y="324" w="152" h="-1" measuredW="79" measuredH="27" zOrder="9" locked="false" isInGroup="-1"/>
+    <control controlID="53" controlTypeID="com.balsamiq.mockups::SubTitle" x="187" y="300" w="-1" h="-1" measuredW="85" measuredH="24" zOrder="10" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>16</size>
+        <text>Description</text>
+      </controlProperties>
+    </control>
+    <control controlID="54" controlTypeID="com.balsamiq.mockups::SubTitle" x="348" y="300" w="-1" h="-1" measuredW="55" measuredH="24" zOrder="11" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>16</size>
+        <text>Picture</text>
+      </controlProperties>
+    </control>
+    <control controlID="55" controlTypeID="com.balsamiq.mockups::TextInput" x="348" y="324" w="-1" h="-1" measuredW="53" measuredH="27" zOrder="12" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Upload</text>
+      </controlProperties>
+    </control>
+    <control controlID="56" controlTypeID="com.balsamiq.mockups::TextInput" x="403" y="324" w="-1" h="-1" measuredW="57" measuredH="27" zOrder="13" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Choose</text>
+      </controlProperties>
+    </control>
+    <control controlID="57" controlTypeID="com.balsamiq.mockups::TextInput" x="93" y="489" w="-1" h="-1" measuredW="95" measuredH="27" zOrder="14" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Add%20Exercise%21</text>
+      </controlProperties>
+    </control>
+    <control controlID="58" controlTypeID="com.balsamiq.mockups::TextInput" x="93" y="447" w="131" h="-1" measuredW="79" measuredH="27" zOrder="15" locked="false" isInGroup="-1"/>
+    <control controlID="59" controlTypeID="com.balsamiq.mockups::SubTitle" x="93" y="423" w="-1" h="-1" measuredW="67" measuredH="24" zOrder="16" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>16</size>
+        <text>Exercise</text>
+      </controlProperties>
+    </control>
+    <control controlID="60" controlTypeID="com.balsamiq.mockups::TextInput" x="251" y="447" w="79" h="-1" measuredW="79" measuredH="27" zOrder="17" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="61" controlTypeID="com.balsamiq.mockups::SubTitle" x="249" y="423" w="-1" h="-1" measuredW="83" measuredH="24" zOrder="18" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>16</size>
+        <text>Time%20%28min%29</text>
+      </controlProperties>
+    </control>
+    <control controlID="62" controlTypeID="com.balsamiq.mockups::SubTitle" x="348" y="423" w="-1" h="-1" measuredW="55" measuredH="24" zOrder="19" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>16</size>
+        <text>Picture</text>
+      </controlProperties>
+    </control>
+    <control controlID="63" controlTypeID="com.balsamiq.mockups::TextInput" x="348" y="447" w="-1" h="-1" measuredW="53" measuredH="27" zOrder="20" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Upload</text>
+      </controlProperties>
+    </control>
+    <control controlID="64" controlTypeID="com.balsamiq.mockups::TextInput" x="403" y="447" w="-1" h="-1" measuredW="57" measuredH="27" zOrder="21" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Choose</text>
+      </controlProperties>
+    </control>
+    <control controlID="65" controlTypeID="com.balsamiq.mockups::TextInput" x="487" y="447" w="-1" h="-1" measuredW="79" measuredH="27" zOrder="22" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="66" controlTypeID="com.balsamiq.mockups::SubTitle" x="487" y="423" w="-1" h="-1" measuredW="154" measuredH="24" zOrder="23" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>16</size>
+        <text>Distance%20%28estimated%29</text>
+      </controlProperties>
+    </control>
+    <control controlID="67" controlTypeID="com.balsamiq.mockups::TextInput" x="487" y="324" w="-1" h="-1" measuredW="79" measuredH="27" zOrder="24" locked="false" isInGroup="-1"/>
+    <control controlID="68" controlTypeID="com.balsamiq.mockups::SubTitle" x="487" y="300" w="177" h="-1" measuredW="151" measuredH="24" zOrder="25" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>16</size>
+        <text>Calories%20%28estimated%29</text>
+      </controlProperties>
+    </control>
+  </controls>
+</mockup>
